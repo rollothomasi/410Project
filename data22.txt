@@ -1,0 +1,407 @@
+Course  : Description
+-------------------------------------------------------------------------------------
+CS 100  : Freshman Orientation
+ section restricted 30094 Lecture AL1 04:00PM - 04:50PM W       100 Noyes Laboratory Pitt, L
+-------------------------------------------------------------------------------------
+CS 101  : Intro Computing: Engrg & Sci
+ section restricted 35879 Lecture AL1 09:00AM - 09:50AM MW      AUD Foellinger Auditorium Davis, N
+ 1. section open 35886 Laboratory-Discussion AYA 11:00AM - 12:50PM M       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35889 Laboratory-Discussion AYB 01:00PM - 02:50PM M       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35890 Laboratory-Discussion AYC 03:00PM - 04:50PM M       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35893 Laboratory-Discussion AYD 09:00AM - 10:50AM T       L520 Digital Computer Laboratory Davis, N
+ 1. section open 61077 Laboratory-Discussion AYE 11:00AM - 12:50PM T       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35915 Laboratory-Discussion AYF 01:00PM - 02:50PM T       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35896 Laboratory-Discussion AYG 03:00PM - 04:50PM T       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35899 Laboratory-Discussion AYH 11:00AM - 12:50PM W       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35902 Laboratory-Discussion AYI 01:00PM - 02:50PM W       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35907 Laboratory-Discussion AYJ 03:00PM - 04:50PM W       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35918 Laboratory-Discussion AYK 09:00AM - 10:50AM R       L520 Digital Computer Laboratory Davis, N
+ 1. section open 61078 Laboratory-Discussion AYL 11:00AM - 12:50PM R       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35910 Laboratory-Discussion AYM 01:00PM - 02:50PM R       L520 Digital Computer Laboratory Davis, N
+ 1. section open 35913 Laboratory-Discussion AYN 03:00PM - 04:50PM R       L520 Digital Computer Laboratory Davis, N
+ 1. section open 62682 Laboratory-Discussion AYO 09:00AM - 10:50AM F       L520 Digital Computer Laboratory Davis, N
+ 1. section open 62683 Laboratory-Discussion AYP 11:00AM - 12:50PM F       L520 Digital Computer Laboratory Davis, N
+ 1. section open 62913 Laboratory-Discussion AYQ 01:00PM - 02:50PM F       L520 Digital Computer Laboratory Davis, N
+ 1. section open 62914 Laboratory-Discussion AYR 03:00PM - 04:50PM F       L520 Digital Computer Laboratory Davis, N
+-------------------------------------------------------------------------------------
+CS 105  : Intro Computing: Non-Tech
+ 1. section open 35823 Lecture AL1 11:00AM - 11:50AM MW      AUD Foellinger Auditorium Hellwig, M
+ section closed 47174 Laboratory-Discussion AYA 12:30PM - 01:50PM M       101 901 W Oregon Hellwig, M
+ 1. section open 35827 Laboratory-Discussion AYB 02:00PM - 03:20PM M       101 901 W Oregon Hellwig, M
+ 1. section open 35828 Laboratory-Discussion AYC 03:30PM - 04:50PM M       101 901 W Oregon Hellwig, M
+ 1. section open 35847 Laboratory-Discussion AYD 05:00PM - 06:20PM M       101 901 W Oregon Hellwig, M
+ section Pending 35831 Laboratory-Discussion AYE 06:30PM - 07:50PM M       101 901 W Oregon Hellwig, M
+ section closed 35833 Laboratory-Discussion AYG 12:30PM - 01:50PM T       101 901 W Oregon Hellwig, M
+ section closed 35835 Laboratory-Discussion AYH 02:00PM - 03:20PM T       101 901 W Oregon Hellwig, M
+ 1. section open 35836 Laboratory-Discussion AYI 03:30PM - 04:50PM T       101 901 W Oregon Hellwig, M
+ 1. section open 35837 Laboratory-Discussion AYJ 05:00PM - 06:20PM T       101 901 W Oregon Hellwig, M
+ 1. section open 35838 Laboratory-Discussion AYK 06:30PM - 07:50PM T       101 901 W Oregon Hellwig, M
+ 1. section open 35843 Laboratory-Discussion AYM 12:30PM - 01:50PM W       101 901 W Oregon Hellwig, M
+ section closed 47175 Laboratory-Discussion AYN 02:00PM - 03:20PM W       101 901 W Oregon Hellwig, M
+ 1. section open 35854 Laboratory-Discussion AYP 03:30PM - 04:50PM W       101 901 W Oregon Hellwig, M
+ 1. section open 35856 Laboratory-Discussion AYQ 05:00PM - 06:20PM W       101 901 W Oregon Hellwig, M
+ 1. section open 35858 Laboratory-Discussion AYR 06:30PM - 07:50PM W       101 901 W Oregon Hellwig, M
+-------------------------------------------------------------------------------------
+CS 125  : Intro to Computer Science
+ section closed 35876 Lecture AL1 09:00AM - 09:50AM MWF     1320 Digital Computer Laboratory Chapman, W
+ section closed 35878 Lecture AL2 01:00PM - 01:50PM MWF     1404 Siebel Center for Comp Sci Chapman, W
+ section closed 50158 Lecture AL3 02:00PM - 02:50PM MWF     1404 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35881 Laboratory-Discussion AYA 09:00AM - 10:50AM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35885 Laboratory-Discussion AYB 11:00AM - 12:50PM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35888 Laboratory-Discussion AYC 01:00PM - 02:50PM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35891 Laboratory-Discussion AYD 03:00PM - 04:50PM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35898 Laboratory-Discussion AYE 05:00PM - 06:50PM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35901 Laboratory-Discussion AYF 07:00PM - 08:50PM T       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35904 Laboratory-Discussion AYG 09:00AM - 10:50AM W       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35906 Laboratory-Discussion AYH 11:00AM - 12:50PM W       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35908 Laboratory-Discussion AYI 01:00PM - 02:50PM W       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35911 Laboratory-Discussion AYJ 03:00PM - 04:50PM W       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35914 Laboratory-Discussion AYK 05:00PM - 06:50PM W       0224 Siebel Center for Comp Sci Chapman, W
+ 1. section open 65058 Laboratory-Discussion AYL 11:00AM - 12:50PM W       1214 Siebel Center for Comp Sci Chapman, W
+ 1. section open 35894 Laboratory-Discussion AYM 01:00PM - 02:50PM W       1214 Siebel Center for Comp Sci Chapman, W
+ 1. section open 65865 Laboratory-Discussion AYN 03:00PM - 04:50PM W       1214 Siebel Center for Comp Sci Chapman, W
+ 1. section open 65059 Laboratory-Discussion AYP 05:00PM - 06:50PM W       1214 Siebel Center for Comp Sci Chapman, W
+ 1. section open 65061 Laboratory-Discussion AYQ 05:00PM - 06:50PM W       1105 Siebel Center for Comp Sci Chapman, W
+-------------------------------------------------------------------------------------
+CS 126  : Software Design Studio
+ section restricted 66322 Lecture-Discussion SDS 09:30AM - 10:45AM TR      1105 Siebel Center for Comp Sci Zilles, C
+-------------------------------------------------------------------------------------
+CS 173  : Discrete Structures
+ section closed 51495 Discussion/ Recitation ADA 02:00PM - 02:50PM R       1111 Siebel Center for Comp Sci Agha, G
+ section closed 51496 Discussion/ Recitation ADB 03:00PM - 03:50PM R       1111 Siebel Center for Comp Sci Agha, G
+ section closed 51497 Discussion/ Recitation ADC 04:00PM - 04:50PM R       1111 Siebel Center for Comp Sci Agha, G
+ 1. section open 51498 Discussion/ Recitation ADD 05:00PM - 05:50PM R       1111 Siebel Center for Comp Sci Agha, G
+ 1. section open 51499 Discussion/ Recitation ADE 09:00AM - 09:50AM F       1302 Siebel Center for Comp Sci Agha, G
+ 1. section open 60278 Discussion/ Recitation ADF 10:00AM - 10:50AM F       1302 Siebel Center for Comp Sci Agha, G
+ 1. section open 63143 Discussion/ Recitation ADG 11:00AM - 11:50AM F       1302 Siebel Center for Comp Sci Agha, G
+ 1. section open 63144 Discussion/ Recitation ADH 12:00PM - 12:50PM F       1302 Siebel Center for Comp Sci Agha, G
+ section closed 63145 Discussion/ Recitation ADI 01:00PM - 01:50PM F       1302 Siebel Center for Comp Sci Agha, G
+ 1. section open 63146 Discussion/ Recitation ADJ 02:00PM - 02:50PM F       1302 Siebel Center for Comp Sci Agha, G
+ section restricted 30102 Lecture AL1 09:30AM - 10:45AM TR      1002 Electrical & Computer Eng Bldg Agha, G
+ 1. section open 51500 Discussion/ Recitation BDA 11:00AM - 11:50AM F       1111 Siebel Center for Comp Sci Agha, G
+ section closed 51469 Discussion/ Recitation BDB 12:00PM - 12:50PM F       1111 Siebel Center for Comp Sci Agha, G
+ section closed 58923 Discussion/ Recitation BDC 01:00PM - 01:50PM F       1111 Siebel Center for Comp Sci Agha, G
+ 1. section open 59602 Discussion/ Recitation BDD 02:00PM - 02:50PM F       1111 Siebel Center for Comp Sci Agha, G
+ 1. section open 59603 Discussion/ Recitation BDE 03:00PM - 03:50PM F       1111 Siebel Center for Comp Sci Agha, G
+ 1. section open 60279 Discussion/ Recitation BDF 04:00PM - 04:50PM F       1111 Siebel Center for Comp Sci Agha, G
+ section closed 40083 Lecture BL2 11:00AM - 12:15PM TR      1320 Digital Computer Laboratory Agha, G
+-------------------------------------------------------------------------------------
+CS 196  : Freshman Honors
+ section restricted 31508 Lecture-Discussion 25  07:00PM - 09:20PM T       1404 Siebel Center for Comp Sci Chapman, W
+ section restricted 58187 Lecture-Discussion 73  ARRANGED n.a n.a Fleck, M
+-------------------------------------------------------------------------------------
+CS 199  : Undergraduate Open Seminar
+ section restricted 64580 Laboratory-Discussion 205 11:00AM - 12:15PM TR      1105 Siebel Center for Comp Sci Heeren, C
+ section Pending 64386 Lecture CH  07:00PM - 08:50PM M       1302 Siebel Center for Comp Sci Heeren, C
+ section Pending 55186 Lecture DYB 06:00PM - 07:50PM U       0224 Siebel Center for Comp Sci Chapman, W
+ section restricted 56131 Lecture-Discussion G1H 03:00PM - 03:50PM MWF     102 Altgeld Hall Francis, G
+-------------------------------------------------------------------------------------
+CS 210  : Ethical & Professional Issues
+ section closed 31516 Lecture-Discussion AL1 04:00PM - 04:50PM M       1320 Digital Computer Laboratory Cunningham, R
+ 1. section open 64582 Discussion/ Recitation AYA 11:00AM - 11:50AM T       1304 Siebel Center for Comp Sci Cunningham, R
+ 1. section open 64583 Discussion/ Recitation AYB 12:00PM - 12:50PM T       1304 Siebel Center for Comp Sci Cunningham, R
+ section closed 64584 Discussion/ Recitation AYC 01:00PM - 01:50PM T       1304 Siebel Center for Comp Sci Cunningham, R
+ section closed 64585 Discussion/ Recitation AYD 02:00PM - 02:50PM T       1304 Siebel Center for Comp Sci Cunningham, R
+ 1. section open 64586 Discussion/ Recitation AYE 03:00PM - 03:50PM T       1304 Siebel Center for Comp Sci Cunningham, R
+ section closed 64587 Discussion/ Recitation AYF 04:00PM - 04:50PM T       1304 Siebel Center for Comp Sci Cunningham, R
+-------------------------------------------------------------------------------------
+CS 225  : Data Structures
+ section closed 35917 Lecture AL1 11:00AM - 11:50AM MWF     1002 Electrical & Computer Eng Bldg Beckman, A
+ section closed 35919 Lecture AL2 02:00PM - 02:50PM MWF     1002 Electrical & Computer Eng Bldg Beckman, A
+ 1. section open 35926 Laboratory-Discussion AYB 07:00PM - 08:50PM W       0224 Siebel Center for Comp Sci Beckman, A
+ 1. section open 35944 Laboratory-Discussion AYC 09:00AM - 10:50AM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35947 Laboratory-Discussion AYD 11:00AM - 12:50PM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35950 Laboratory-Discussion AYE 01:00PM - 02:50PM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35952 Laboratory-Discussion AYF 03:00PM - 04:50PM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35954 Laboratory-Discussion AYG 05:00PM - 06:50PM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35956 Laboratory-Discussion AYH 07:00PM - 08:50PM R       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 35959 Laboratory-Discussion AYI 09:00AM - 10:50AM F       0224 Siebel Center for Comp Sci Beckman, A
+ 1. section open 35923 Laboratory-Discussion AYK 01:00PM - 02:50PM F       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 58757 Laboratory-Discussion AYL 03:00PM - 04:50PM F       0224 Siebel Center for Comp Sci Beckman, A
+ section closed 58758 Laboratory-Discussion AYM 05:00PM - 06:50PM F       0224 Siebel Center for Comp Sci Beckman, A
+ 1. section open 62137 Laboratory-Discussion AYN 11:00AM - 12:50PM R       1214 Siebel Center for Comp Sci Beckman, A
+ section closed 62139 Laboratory-Discussion AYO 01:00PM - 02:50PM R       1214 Siebel Center for Comp Sci Beckman, A
+ section closed 62140 Laboratory-Discussion AYP 03:00PM - 04:50PM R       1214 Siebel Center for Comp Sci Beckman, A
+ 1. section open 62833 Laboratory-Discussion AYQ 01:00PM - 02:50PM F       1214 Siebel Center for Comp Sci Beckman, A
+ section closed 62834 Laboratory-Discussion AYR 03:00PM - 04:50PM F       1214 Siebel Center for Comp Sci Beckman, A
+ 1. section open 65051 Laboratory-Discussion AYS 09:00AM - 10:50AM R       1214 Siebel Center for Comp Sci Beckman, A
+ section closed 65053 Laboratory-Discussion AYT 05:00PM - 06:50PM R       1214 Siebel Center for Comp Sci Beckman, A
+ 1. section open 65054 Laboratory-Discussion AYU 09:00AM - 10:50AM F       1214 Siebel Center for Comp Sci Beckman, A
+ 1. section open 65184 Laboratory-Discussion AYV 05:00PM - 06:50PM F       1214 Siebel Center for Comp Sci Beckman, A
+-------------------------------------------------------------------------------------
+CS 233  : Computer Architecture
+ section closed 63733 Lecture AL1 10:00AM - 10:50AM MWF     1320 Digital Computer Laboratory Zilles, C
+ section closed 64513 Lecture AL2 11:00AM - 11:50AM MWF     1320 Digital Computer Laboratory Zilles, C
+ 1. section open 63734 Discussion/ Recitation AYA 11:00AM - 11:50AM M       1111 Siebel Center for Comp Sci Zilles, C
+ 1. section open 63735 Discussion/ Recitation AYB 12:00PM - 12:50PM M       1111 Siebel Center for Comp Sci Zilles, C
+ 1. section open 63736 Discussion/ Recitation AYC 01:00PM - 01:50PM M       1111 Siebel Center for Comp Sci Zilles, C
+ 1. section open 63737 Discussion/ Recitation AYD 02:00PM - 02:50PM M       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 63738 Discussion/ Recitation AYE 03:00PM - 03:50PM M       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 63739 Discussion/ Recitation AYF 04:00PM - 04:50PM M       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 63740 Discussion/ Recitation AYG 11:00AM - 11:50AM T       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 64544 Discussion/ Recitation AYH 12:00PM - 12:50PM T       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 64545 Discussion/ Recitation AYI 01:00PM - 01:50PM T       1111 Siebel Center for Comp Sci Zilles, C
+ section closed 64546 Discussion/ Recitation AYJ 02:00PM - 02:50PM T       1111 Siebel Center for Comp Sci Zilles, C
+ 1. section open 64547 Discussion/ Recitation AYK 03:00PM - 03:50PM T       1111 Siebel Center for Comp Sci Zilles, C
+ 1. section open 64548 Discussion/ Recitation AYL 04:00PM - 04:50PM T       1111 Siebel Center for Comp Sci Zilles, C
+-------------------------------------------------------------------------------------
+CS 241  : System Programming
+ 1. section open 59531 Discussion/ Recitation ADA 09:00AM - 10:20AM R       0218 Siebel Center for Comp Sci Angrave, L
+ 1. section open 51471 Discussion/ Recitation ADB 10:30AM - 11:50AM R       0218 Siebel Center for Comp Sci Angrave, L
+ section closed 51472 Discussion/ Recitation ADC 12:00PM - 01:20PM R       0218 Siebel Center for Comp Sci Angrave, L
+ section closed 51473 Discussion/ Recitation ADD 01:30PM - 02:50PM R       0218 Siebel Center for Comp Sci Angrave, L
+ section closed 51474 Discussion/ Recitation ADE 03:00PM - 04:20PM R       0218 Siebel Center for Comp Sci Angrave, L
+ section closed 51475 Discussion/ Recitation ADF 04:30PM - 05:50PM R       0218 Siebel Center for Comp Sci Angrave, L
+ section closed 66269 Discussion/ Recitation ADG 06:00PM - 07:20PM R       0218 Siebel Center for Comp Sci Angrave, L
+ 1. section open 66270 Discussion/ Recitation ADH 07:30PM - 08:50PM R       0218 Siebel Center for Comp Sci Angrave, L
+ 1. section open 66271 Discussion/ Recitation ADJ 09:00AM - 10:20AM R       0222 Siebel Center for Comp Sci Angrave, L
+ 1. section open 66272 Discussion/ Recitation ADK 10:30AM - 11:50AM R       0222 Siebel Center for Comp Sci Angrave, L
+ 1. section open 66273 Discussion/ Recitation ADL 12:00PM - 01:20PM R       0222 Siebel Center for Comp Sci Angrave, L
+ section closed 51476 Discussion/ Recitation ADM 01:30PM - 02:50PM R       0222 Siebel Center for Comp Sci Angrave, L
+ section restricted 45300 Lecture AL1 12:00PM - 12:50PM MWF     1320 Digital Computer Laboratory Angrave, L
+ section restricted 66268 Lecture AL2 01:00PM - 01:50PM MWF     1320 Digital Computer Laboratory Angrave, L
+-------------------------------------------------------------------------------------
+CS 242  : Programming Studio
+ section closed 45328 Laboratory AB1 ARRANGED n.a ARR Siebel Center for Comp Sci Woodley, M
+ section closed 45325 Lecture AL1 03:00PM - 03:50PM M       1404 Siebel Center for Comp Sci Woodley, M
+ section Pending 67016 Laboratory BB1 ARRANGED n.a n.a N/A
+ section Pending 67015 Lecture BL1 03:30PM - 04:20PM W       0216 Siebel Center for Comp Sci Woodley, M
+-------------------------------------------------------------------------------------
+CS 296  : Honors Course
+ section restricted 31518 Lecture-Discussion 25  ARRANGED n.a ARR Siebel Center for Comp Sci Heeren, C
+ section restricted 62763 Lecture-Discussion 33  ARRANGED n.a ARR Siebel Center for Comp Sci Zilles, C
+ section restricted 57758 Lecture-Discussion 41  07:00PM - 08:50PM W       1304 Siebel Center for Comp Sci Angrave, L
+-------------------------------------------------------------------------------------
+CS 357  : Numerical Methods I
+ section closed 53280 Lecture-Discussion M   09:30AM - 10:45AM TR      1404 Siebel Center for Comp Sci Kloeckner, A
+ section Pending 63536 Lecture-Discussion N   ARRANGED n.a n.a Kloeckner, A
+-------------------------------------------------------------------------------------
+CS 361  : Probability & Statistics for Computer Science
+ 1. section open 66303 Discussion/ Recitation ADA 11:00AM - 11:50AM R       1304 Siebel Center for Comp Sci N/A
+ 1. section open 66304 Discussion/ Recitation ADB 12:00PM - 12:50PM R       1304 Siebel Center for Comp Sci N/A
+ 1. section open 66305 Discussion/ Recitation ADC 01:00PM - 01:50PM R       1304 Siebel Center for Comp Sci N/A
+ 1. section open 66306 Discussion/ Recitation ADD 02:00PM - 02:50PM R       1304 Siebel Center for Comp Sci N/A
+ 1. section open 66307 Discussion/ Recitation ADE 03:00PM - 03:50PM R       1304 Siebel Center for Comp Sci N/A
+ section closed 66298 Lecture AL1 09:00AM - 09:50AM MWF     1404 Siebel Center for Comp Sci N/A
+-------------------------------------------------------------------------------------
+CS 374  : Introduction to Algorithms & Models of Computation
+ section closed 66445 Lecture AL1 11:00AM - 12:15PM TR      1002 Electrical & Computer Eng Bldg Erickson, J
+ 1. section open 66446 Discussion/ Recitation AYA 09:00AM - 09:50AM WF      1304 Siebel Center for Comp Sci Erickson, J
+ section closed 66447 Discussion/ Recitation AYB 10:00AM - 10:50AM WF      1304 Siebel Center for Comp Sci Erickson, J
+ section closed 66448 Discussion/ Recitation AYC 11:00AM - 11:50AM WF      1304 Siebel Center for Comp Sci Erickson, J
+ section closed 66449 Discussion/ Recitation AYD 12:00PM - 12:50PM WF      1304 Siebel Center for Comp Sci Erickson, J
+ section closed 66450 Discussion/ Recitation AYE 01:00PM - 01:50PM WF      1304 Siebel Center for Comp Sci Erickson, J
+ section closed 66451 Discussion/ Recitation AYF 01:00PM - 01:50PM WF      1105 Siebel Center for Comp Sci Erickson, J
+ section closed 66452 Discussion/ Recitation AYG 02:00PM - 02:50PM WF      1304 Siebel Center for Comp Sci Erickson, J
+ 1. section open 66453 Discussion/ Recitation AYH 02:00PM - 02:50PM WF      1105 Siebel Center for Comp Sci Erickson, J
+ 1. section open 66454 Discussion/ Recitation AYJ 03:00PM - 03:50PM WF      1304 Siebel Center for Comp Sci Erickson, J
+ 1. section open 66455 Discussion/ Recitation AYK 03:00PM - 03:50PM WF      1105 Siebel Center for Comp Sci Erickson, J
+-------------------------------------------------------------------------------------
+CS 397  : Individual Study
+ section restricted 10464 Independent Study N/A ARRANGED n.a n.a N/A
+-------------------------------------------------------------------------------------
+CS 411  : Database Systems
+ section closed 30109 Lecture-Discussion Q3  03:30PM - 04:45PM TR      1320 Digital Computer Laboratory Chang, K
+ section closed 40086 Lecture-Discussion Q4  03:30PM - 04:45PM TR      1320 Digital Computer Laboratory Chang, K
+-------------------------------------------------------------------------------------
+CS 412  : Introduction to Data Mining
+ section closed 43357 Lecture-Discussion P3  11:00AM - 12:15PM TR      1404 Siebel Center for Comp Sci Han, J
+ section closed 43358 Lecture-Discussion P4  11:00AM - 12:15PM TR      1404 Siebel Center for Comp Sci Han, J
+-------------------------------------------------------------------------------------
+CS 413  : Intro to Combinatorics
+ section closed 63192 Lecture-Discussion D13 11:00AM - 11:50AM MWF     245 Altgeld Hall Yong, A
+ section closed 63193 Lecture-Discussion D14 11:00AM - 11:50AM MWF     245 Altgeld Hall Yong, A
+-------------------------------------------------------------------------------------
+CS 418  : Interactive Computer Graphics
+ section closed 51480 Discussion/ Recitation AD1 11:00AM - 11:50AM W       1111 Siebel Center for Comp Sci Shaffer, E
+ 1. section open 51481 Discussion/ Recitation AD2 12:00PM - 12:50PM W       1111 Siebel Center for Comp Sci Shaffer, E
+ section closed 51482 Discussion/ Recitation AD3 01:00PM - 01:50PM W       1111 Siebel Center for Comp Sci Shaffer, E
+ section closed 55233 Discussion/ Recitation AD4 02:00PM - 02:50PM W       1111 Siebel Center for Comp Sci Shaffer, E
+ 1. section open 61175 Discussion/ Recitation AD5 03:00PM - 03:50PM W       1111 Siebel Center for Comp Sci Shaffer, E
+ 1. section open 65389 Discussion/ Recitation AD6 04:00PM - 04:50PM W       1111 Siebel Center for Comp Sci Shaffer, E
+ section restricted 36119 Lecture AL1 10:00AM - 10:50AM MWF     1404 Siebel Center for Comp Sci Shaffer, E
+ section restricted 36121 Lecture AL2 10:00AM - 10:50AM MWF     1404 Siebel Center for Comp Sci Shaffer, E
+ section restricted 67033 Online ONL ARRANGED n.a n.a Shaffer, E
+-------------------------------------------------------------------------------------
+CS 420  : Parallel Progrmg: Sci & Engrg
+ section closed 53685 Lecture-Discussion D3  11:00AM - 12:15PM WF      0216 Siebel Center for Comp Sci Snir, M
+ section closed 53686 Lecture-Discussion D4  11:00AM - 12:15PM WF      0216 Siebel Center for Comp Sci Snir, M
+-------------------------------------------------------------------------------------
+CS 421  : Progrmg Languages & Compilers
+ section closed 30128 Lecture-Discussion D3  02:00PM - 03:15PM TR      1404 Siebel Center for Comp Sci Gunter, E
+ section closed 40087 Lecture-Discussion D4  02:00PM - 03:15PM TR      1404 Siebel Center for Comp Sci Gunter, E
+-------------------------------------------------------------------------------------
+CS 424  : Real-Time Systems
+ section restricted 51775 Lecture-Discussion P3  02:00PM - 03:15PM TR      1302 Siebel Center for Comp Sci Abdelzaher, T
+ section restricted 51776 Lecture-Discussion P4  02:00PM - 03:15PM TR      1302 Siebel Center for Comp Sci Abdelzaher, T
+-------------------------------------------------------------------------------------
+CS 425  : Distributed Systems
+ section restricted 62170 Online ONL ARRANGED n.a n.a Gupta, I
+ section closed 36091 Lecture-Discussion P3  02:00PM - 03:15PM TR      1320 Digital Computer Laboratory Gupta, I
+ section closed 57769 Lecture-Discussion P4  02:00PM - 03:15PM TR      1320 Digital Computer Laboratory Gupta, I
+-------------------------------------------------------------------------------------
+CS 426  : Compiler Construction
+ section closed 43355 Lecture-Discussion N3  12:30PM - 01:45PM TR      1302 Siebel Center for Comp Sci Adve, V
+ section closed 43356 Lecture-Discussion N4  12:30PM - 01:45PM TR      1302 Siebel Center for Comp Sci Adve, V
+-------------------------------------------------------------------------------------
+CS 427  : Software Engineering I
+ section restricted 36104 Lecture-Discussion S3  12:30PM - 01:45PM TR      1404 Siebel Center for Comp Sci Rosu, G
+ section restricted 36107 Lecture-Discussion S4  12:30PM - 01:45PM TR      1404 Siebel Center for Comp Sci Rosu, G
+-------------------------------------------------------------------------------------
+CS 431  : Embedded Systems
+ section closed 40100 Laboratory AB1 03:00PM - 04:50PM W       ARR Siebel Center for Comp Sci Caccamo, M
+ 1. section open 31526 Laboratory AB3 03:00PM - 04:50PM R       ARR Siebel Center for Comp Sci Caccamo, M
+ 1. section open 40102 Laboratory AB4 05:00PM - 06:50PM R       ARR Siebel Center for Comp Sci Caccamo, M
+ 1. section open 40103 Laboratory AB5 05:00PM - 06:50PM W       n.a Caccamo, M
+ section restricted 40667 Lecture-Discussion AE3 12:30PM - 01:45PM WF      0216 Siebel Center for Comp Sci Caccamo, M
+ section restricted 40668 Lecture-Discussion AE4 12:30PM - 01:45PM WF      0216 Siebel Center for Comp Sci Caccamo, M
+-------------------------------------------------------------------------------------
+CS 433  : Computer System Organization
+ section restricted 36069 Lecture-Discussion T3  11:00AM - 12:15PM TR      0216 Siebel Center for Comp Sci Torrellas, J
+ section restricted 43363 Lecture-Discussion T4  11:00AM - 12:15PM TR      0216 Siebel Center for Comp Sci Torrellas, J
+-------------------------------------------------------------------------------------
+CS 438  : Communication Networks
+ section closed 36061 Lecture-Discussion X3  03:00PM - 04:20PM MW      1015 Electrical & Computer Eng Bldg Borisov, N
+ section closed 57772 Lecture-Discussion X4  03:00PM - 04:20PM MW      1015 Electrical & Computer Eng Bldg Borisov, N
+-------------------------------------------------------------------------------------
+CS 439  : Wireless Networks
+ 1. section open 61199 Lecture B3  11:00AM - 12:15PM WF      1105 Siebel Center for Comp Sci Kravets, R
+ section restricted 61201 Lecture B4  11:00AM - 12:15PM WF      1105 Siebel Center for Comp Sci Kravets, R
+-------------------------------------------------------------------------------------
+CS 440  : Artificial Intelligence
+ section restricted 63671 Online ONL ARRANGED n.a n.a Lazebnik, S
+ section closed 36047 Lecture-Discussion Q3  03:30PM - 04:45PM TR      1404 Siebel Center for Comp Sci Lazebnik, S
+ section closed 36053 Lecture-Discussion Q4  03:30PM - 04:45PM TR      1404 Siebel Center for Comp Sci Lazebnik, S
+ section closed 67003 Lecture-Discussion R3  02:00PM - 03:15PM TR      0216 Siebel Center for Comp Sci Hasegawa-Johnson, M
+ section closed 67004 Lecture-Discussion R4  02:00PM - 03:15PM TR      0216 Siebel Center for Comp Sci Hasegawa-Johnson, M
+-------------------------------------------------------------------------------------
+CS 446  : Machine Learning
+ section closed 46792 Lecture D3  12:30PM - 01:45PM TR      1320 Digital Computer Laboratory Roth, D
+ section closed 46793 Lecture D4  12:30PM - 01:45PM TR      1320 Digital Computer Laboratory Roth, D
+ section restricted 60403 Online ONL ARRANGED n.a n.a Roth, D
+-------------------------------------------------------------------------------------
+CS 450  : Numerical Analysis
+ section closed 36016 Lecture-Discussion BL1 02:00PM - 03:15PM MW      1320 Digital Computer Laboratory N/A
+ section closed 36020 Lecture-Discussion BL2 02:00PM - 03:15PM MW      1320 Digital Computer Laboratory N/A
+-------------------------------------------------------------------------------------
+CS 461  : Computer Security I
+ section closed 49547 Lecture AL4 03:30PM - 04:45PM WF      1404 Siebel Center for Comp Sci Bailey, M
+ section closed 66966 Discussion/ Recitation AY1 11:00AM - 11:50AM R       1111 Siebel Center for Comp Sci Bailey, M
+ 1. section open 66968 Discussion/ Recitation AY2 12:00PM - 12:50PM R       1111 Siebel Center for Comp Sci Bailey, M
+ section closed 66969 Discussion/ Recitation AY3 01:00PM - 01:50PM R       1111 Siebel Center for Comp Sci Bailey, M
+ section closed 66970 Discussion/ Recitation AY4 02:00PM - 02:50PM R       1105 Siebel Center for Comp Sci Bailey, M
+ 1. section open 66971 Discussion/ Recitation AY5 03:00PM - 03:50PM R       1105 Siebel Center for Comp Sci Bailey, M
+ section closed 66972 Discussion/ Recitation AY6 04:00PM - 04:50PM R       1105 Siebel Center for Comp Sci Bailey, M
+-------------------------------------------------------------------------------------
+CS 465  : User Interface Design
+ section closed 43388 Lecture-Discussion M3  09:30AM - 10:45AM TR      1320 Digital Computer Laboratory Bailey, B
+ section closed 43389 Lecture-Discussion M4  09:30AM - 10:45AM TR      1320 Digital Computer Laboratory Bailey, B
+ section restricted 56646 Online ONL ARRANGED n.a n.a Bailey, B
+-------------------------------------------------------------------------------------
+CS 466  : Introduction to Bioinformatics
+ section restricted 51764 Lecture-Discussion B3  09:30AM - 10:45AM TR      0216 Siebel Center for Comp Sci Sinha, S
+ section restricted 51765 Lecture-Discussion B4  09:30AM - 10:45AM TR      0216 Siebel Center for Comp Sci Sinha, S
+-------------------------------------------------------------------------------------
+CS 476  : Program Verification
+ 1. section open 35855 Lecture-Discussion D3  09:30AM - 10:45AM TR      1304 Siebel Center for Comp Sci Meseguer, J
+ section restricted 35852 Lecture-Discussion D4  09:30AM - 10:45AM TR      1304 Siebel Center for Comp Sci Meseguer, J
+-------------------------------------------------------------------------------------
+CS 477  : Formal Software Devel Methods
+ section restricted 64565 Lecture B3  12:30PM - 01:45PM WF      1109 Siebel Center for Comp Sci Parthasarathy, M
+ section restricted 64566 Lecture B4  12:30PM - 01:45PM WF      1109 Siebel Center for Comp Sci Parthasarathy, M
+-------------------------------------------------------------------------------------
+CS 481  : Stochastic Processes & Applic
+ section closed 52040 Laboratory E   04:00PM - 04:50PM MW      1310 Digital Computer Laboratory N/A
+ section closed 58069 Laboratory G   04:00PM - 04:50PM MW      1310 Digital Computer Laboratory N/A
+-------------------------------------------------------------------------------------
+CS 483  : Applied Parallel Programming
+ 1. section open 58793 Laboratory AB  ARRANGED n.a n.a N/A
+ section closed 58792 Lecture AL  09:30AM - 10:50AM TR      1015 Electrical & Computer Eng Bldg Hwu, W
+ 1. section open 67070 Lecture AL2 11:00AM - 12:30PM TR      n.a Hwu, W
+-------------------------------------------------------------------------------------
+CS 491  : Seminar
+ section closed 66834 Discussion/ Recitation 125 ARRANGED n.a n.a Chapman, W
+ 1. section open 65816 Laboratory CAP 02:00PM - 02:50PM F       119 Materials Science & Eng Bld Marinov, D
+ section restricted 54321 Lecture CB  05:00PM - 06:50PM R       1109 Siebel Center for Comp Sci Bashir, M
+-------------------------------------------------------------------------------------
+CS 492  : Senior Project I
+ section restricted 30139 Lecture-Discussion CS  03:30PM - 05:20PM W       1320 Digital Computer Laboratory Woodley, M
+-------------------------------------------------------------------------------------
+CS 498  : Special Topics
+ 1. section open 61482 Laboratory AB1 12:00PM - 12:50PM W       0220 Siebel Center for Comp Sci Campbell, R
+ 1. section open 61483 Laboratory AB2 01:00PM - 01:50PM W       0220 Siebel Center for Comp Sci Campbell, R
+ 1. section open 61457 Lecture AL1 10:00AM - 11:15AM MW      1302 Siebel Center for Comp Sci Bashir, M
+ section restricted 65109 Lecture-Discussion DL1 09:30AM - 10:45AM WF      1310 Digital Computer Laboratory Chekuri, C
+ section closed 65315 Lecture GFD 11:00AM - 12:15PM WF      1103 Siebel Center for Comp Sci DeJong, G
+ section closed 66333 Lecture-Discussion HS3 12:30PM - 01:45PM WF      1310 Digital Computer Laboratory Sundaram, H
+ section closed 66399 Lecture-Discussion HS4 12:30PM - 01:45PM WF      1310 Digital Computer Laboratory Sundaram, H
+ section closed 65575 Lecture-Discussion IDS 09:00AM - 11:50AM T       126 Grad Sch of Lib & Info Science Stodden, V
+ section closed 66825 Lecture RK1 11:00AM - 12:15PM MW      1310 Digital Computer Laboratory Kumar, R
+ section closed 66826 Lecture RK2 11:00AM - 12:15PM MW      1310 Digital Computer Laboratory Kumar, R
+ section closed 40091 Lecture SL3 11:00AM - 12:15PM MW      1404 Siebel Center for Comp Sci Yershova, G
+ section closed 40092 Lecture SL4 11:00AM - 12:15PM MW      1404 Siebel Center for Comp Sci Yershova, G
+ section restricted 66321 Lecture TX  11:00AM - 12:15PM MW      1131 Siebel Center for Comp Sci Xie, T
+-------------------------------------------------------------------------------------
+CS 499  : Senior Thesis
+ section restricted 10465 Independent Study N/A ARRANGED n.a n.a N/A
+-------------------------------------------------------------------------------------
+CS 519  : Scientific Visualization
+ section restricted 35905 Lecture P   02:00PM - 03:15PM MW      1302 Siebel Center for Comp Sci Shaffer, E
+-------------------------------------------------------------------------------------
+CS 523  : Advanced Operating Systems
+ section restricted 59677 Lecture-Discussion E   09:30AM - 10:45AM TR      1109 Siebel Center for Comp Sci Campbell, R
+ section restricted 41596 Online ONL ARRANGED n.a n.a Campbell, R
+-------------------------------------------------------------------------------------
+CS 527  : Topics in Software Engineering
+ section restricted 41597 Online ONL ARRANGED n.a n.a Marinov, D
+ section restricted 35912 Lecture-Discussion S   12:30PM - 01:45PM TR      0216 Siebel Center for Comp Sci Marinov, D
+-------------------------------------------------------------------------------------
+CS 541  : Computer Systems Analysis
+ 1. section open 35921 Lecture-Discussion B   09:30AM - 10:45AM WF      4070 Electrical & Computer Eng Bldg Nicol, D
+-------------------------------------------------------------------------------------
+CS 548  : Models of Cognitive Processes
+ section closed 64710 Lecture R   02:00PM - 03:15PM TR      1131 Siebel Center for Comp Sci Fu, W
+-------------------------------------------------------------------------------------
+CS 549  : Seminar in Cognitive Science
+ section restricted 48226 Lecture-Discussion A   03:30PM - 04:50PM TR      319 Gregory Hall Hummel, J
+-------------------------------------------------------------------------------------
+CS 556  : Iterative & Multigrid Methods
+ section restricted 55575 Lecture IM  11:00AM - 12:15PM TR      1302 Siebel Center for Comp Sci Olson, L
+-------------------------------------------------------------------------------------
+CS 563  : Advanced Computer Security
+ section closed 54597 Lecture C   09:30AM - 10:45AM WF      1103 Siebel Center for Comp Sci Gunter, C
+-------------------------------------------------------------------------------------
+CS 571  : Combinatorial Mathematics
+ section closed 33563 Lecture-Discussion D1  11:00AM - 11:50AM MWF     347 Altgeld Hall Balog, J
+-------------------------------------------------------------------------------------
+CS 575  : Methods of Combinatorics
+ 1. section open 64477 Lecture-Discussion E1  01:00PM - 01:50PM MWF     445 Altgeld Hall Balog, J
+-------------------------------------------------------------------------------------
+CS 591  : Advanced Seminar
+ section restricted 35941 Lecture-Discussion ACT ARRANGED n.a ARR Siebel Center for Comp Sci Adve, V
+ section restricted 43832 Lecture-Discussion BIO 10:00AM - 10:50AM M       143 Loomis Laboratory Peng, J
+ section restricted 35943 Lecture-Discussion CCR 05:00PM - 06:20PM W       1304 Siebel Center for Comp Sci Campbell, R
+ section restricted 46417 Lecture-Discussion FM  03:30PM - 04:20PM F       n.a Gunter, E
+ section restricted 35974 Lecture-Discussion HCI 11:00AM - 11:50AM T       ARR Siebel Center for Comp Sci Bailey, B
+ section restricted 43828 Lecture-Discussion IG  01:30PM - 02:20PM W       206 Transportation Building Gupta, I
+ section restricted 35957 Lecture-Discussion MH  ARRANGED n.a ARR Siebel Center for Comp Sci Heath, M
+ section restricted 41977 Lecture PHD 11:00AM - 11:50AM M       0216 Siebel Center for Comp Sci Chekuri, C
+ section restricted 41614 Lecture-Discussion RHC ARRANGED n.a ARR Siebel Center for Comp Sci Campbell, R
+ section restricted 49716 Lecture-Discussion SE  ARRANGED n.a ARR Siebel Center for Comp Sci Marinov, D
+ section restricted 35986 Lecture-Discussion TA  03:00PM - 03:50PM M       0216 Siebel Center for Comp Sci Chekuri, C
+-------------------------------------------------------------------------------------
+CS 597  : Individual Study
+ section restricted 10467 Independent Study N/A ARRANGED n.a n.a N/A
+-------------------------------------------------------------------------------------
+CS 598  : Special Topics
+ section restricted 58261 Lecture-Discussion ACK 12:30PM - 01:45PM TR      1131 Siebel Center for Comp Sci Kirlik, A
+ section restricted 50499 Online CXO ARRANGED n.a n.a Zhai, C
+ section closed 35989 Lecture-Discussion CXZ 09:30AM - 10:45AM WF      1109 Siebel Center for Comp Sci Zhai, C
+ section restricted 66318 Lecture-Discussion LRS 09:30AM - 10:45AM WF      1105 Siebel Center for Comp Sci Sha, L
+ section restricted 55918 Lecture-Discussion LVK 09:30AM - 10:45AM TR      1302 Siebel Center for Comp Sci Kale, L
+ section restricted 66327 Lecture-Discussion MHV 11:00AM - 12:15PM TR      1131 Siebel Center for Comp Sci Viswanathan, M
+ section restricted 66832 Lecture-Discussion OOK 03:30PM - 04:45PM TR      1109 Siebel Center for Comp Sci Koyejo, O
+ section restricted 66867 Lecture-Discussion SM  02:00PM - 03:15PM TR      1109 Siebel Center for Comp Sci Misailovic, S
+-------------------------------------------------------------------------------------
+CS 599  : Thesis Research
+ section restricted 10469 Independent Study N/A ARRANGED n.a n.a N/A
